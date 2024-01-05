@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 siner308/typescript-express-typeorm-boilerplate is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [PostgreSQL](http://www.postgresql.org/) – Databases
@@ -15,11 +16,13 @@ siner308/typescript-express-typeorm-boilerplate is built on the following main s
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 siner308/typescript-express-typeorm-boilerplate is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
@@ -33,14 +36,15 @@ siner308/typescript-express-typeorm-boilerplate is built on the following main s
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [siner308/typescript-express-typeorm-boilerplate](https://github.com/siner308/typescript-express-typeorm-boilerplate)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|41<br/>Tools used|11/15/23 <br/>Report generated|
+|41<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -214,4 +218,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
