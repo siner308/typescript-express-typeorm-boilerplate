@@ -3,17 +3,17 @@
 ## Tech Stack
 siner308/typescript-express-typeorm-boilerplate is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [TSLint](https://github.com/palantir/tslint) – Code Review
-- [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [TypeORM](https://typeorm.io/) – Microframeworks (Backend)
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [TSLint](https://github.com/palantir/tslint) – Code Review
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
 
@@ -23,17 +23,17 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 siner308/typescript-express-typeorm-boilerplate is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/7419/20165699.png' alt='TypeORM'/> [TypeORM](https://typeorm.io/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
 
@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [siner308/typescript-express-typeorm-boilerplate](https://github.com/siner308/typescript-express-typeorm-boilerplate)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|41<br/>Tools used|01/05/24 <br/>Report generated|
+|41<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
